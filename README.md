@@ -1,0 +1,1 @@
+NOTA: Acabei de criar o repositório porque estive desde outubro trabalhando na criação da base do site (CSS e os 12 HTML's.) daqui em diante, os HTML's (e possivelmente o CSS, mas pouco provável.) receberão atualização de conteúdo, pois, até agora, só fiz o visual do site.
